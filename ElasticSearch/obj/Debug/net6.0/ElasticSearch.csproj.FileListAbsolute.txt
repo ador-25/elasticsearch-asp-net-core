@@ -1,0 +1,14 @@
+D:\elasticsearch-asp-net-core\ElasticSearch\bin\Debug\net6.0\ElasticSearch.exe
+D:\elasticsearch-asp-net-core\ElasticSearch\bin\Debug\net6.0\ElasticSearch.deps.json
+D:\elasticsearch-asp-net-core\ElasticSearch\bin\Debug\net6.0\ElasticSearch.runtimeconfig.json
+D:\elasticsearch-asp-net-core\ElasticSearch\bin\Debug\net6.0\ElasticSearch.dll
+D:\elasticsearch-asp-net-core\ElasticSearch\bin\Debug\net6.0\ElasticSearch.pdb
+D:\elasticsearch-asp-net-core\ElasticSearch\obj\Debug\net6.0\ElasticSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\elasticsearch-asp-net-core\ElasticSearch\obj\Debug\net6.0\ElasticSearch.AssemblyInfoInputs.cache
+D:\elasticsearch-asp-net-core\ElasticSearch\obj\Debug\net6.0\ElasticSearch.AssemblyInfo.cs
+D:\elasticsearch-asp-net-core\ElasticSearch\obj\Debug\net6.0\ElasticSearch.csproj.CoreCompileInputs.cache
+D:\elasticsearch-asp-net-core\ElasticSearch\obj\Debug\net6.0\ElasticSearch.dll
+D:\elasticsearch-asp-net-core\ElasticSearch\obj\Debug\net6.0\refint\ElasticSearch.dll
+D:\elasticsearch-asp-net-core\ElasticSearch\obj\Debug\net6.0\ElasticSearch.pdb
+D:\elasticsearch-asp-net-core\ElasticSearch\obj\Debug\net6.0\ElasticSearch.genruntimeconfig.cache
+D:\elasticsearch-asp-net-core\ElasticSearch\obj\Debug\net6.0\ref\ElasticSearch.dll
