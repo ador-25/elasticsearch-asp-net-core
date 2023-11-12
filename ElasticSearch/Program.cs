@@ -1,2 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+
+using ElasticSearch.Services;
+
+IElasticSearchService service = new ElasticSearchService();
+service.Test();
