@@ -19,6 +19,10 @@ public class ProductSeed
             };
 
             products.Add(product);
+            Console.WriteLine("######################################");
+            Console.WriteLine($"{product.Id}");
+            Console.WriteLine($"{product.Name}");
+            Console.WriteLine($"{product.Description}");
         }
 
         return products;

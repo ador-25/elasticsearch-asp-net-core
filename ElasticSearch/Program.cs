@@ -14,3 +14,5 @@ service.CreateIndex(host, indexName);
 
 
 // insert data to index
+/*Console.WriteLine("FAKE: ");
+var data = ProductSeed.SeedProducts();*/

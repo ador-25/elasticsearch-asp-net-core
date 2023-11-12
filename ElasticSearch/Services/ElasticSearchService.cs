@@ -17,7 +17,7 @@ namespace ElasticSearch.Services
 
             var client = new ElasticClient(settings);
 
-            var createIndexResponse = client.Indices.Create("your_index_name", c => c
+            var createIndexResponse = client.Indices.Create(indexName, c => c
                 .Map<Product>(m => m
                     .AutoMap()
                 )

@@ -16,3 +16,4 @@ D:\elasticsearch-asp-net-core\ElasticSearch\bin\Debug\net6.0\Elasticsearch.Net.d
 D:\elasticsearch-asp-net-core\ElasticSearch\bin\Debug\net6.0\Nest.dll
 D:\elasticsearch-asp-net-core\ElasticSearch\obj\Debug\net6.0\ElasticSearch.csproj.AssemblyReference.cache
 D:\elasticsearch-asp-net-core\ElasticSearch\obj\Debug\net6.0\ElasticSearch.csproj.CopyComplete
+D:\elasticsearch-asp-net-core\ElasticSearch\bin\Debug\net6.0\Bogus.dll
