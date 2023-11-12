@@ -8,6 +8,7 @@ namespace ElasticSearch.SeedData
 {
     public class ProductSeed
     {
+
     }
 
 }

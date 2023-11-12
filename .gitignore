@@ -475,3 +475,26 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+# Visual Studio Code
+.vscode
+.vscode-test
+
+# Rider
+.idea
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.suo
+*.suo
+*.swp
+
+# Build artifacts
+obj/
+bin/
+*.dll
+*.exe
+*.pdb
