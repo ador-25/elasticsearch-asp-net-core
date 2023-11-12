@@ -1,6 +1,16 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿
+// imports
 using ElasticSearch.Services;
 
+// hosts and indexes
+string host = "http://localhost:9200";
+string indexName = "product-index";
+
+
 IElasticSearchService service = new ElasticSearchService();
-service.Test();
+
+// create index
+service.CreateIndex(host, indexName);
+
+
+// insert data to index
