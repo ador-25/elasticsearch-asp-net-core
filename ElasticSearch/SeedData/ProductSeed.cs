@@ -1,14 +1,27 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Bogus;
+using ElasticSearch.Models;
 
-namespace ElasticSearch.SeedData
+public class ProductSeed
 {
-    public class ProductSeed
+    public static List<Product> SeedProducts()
     {
+        var faker = new Faker();  // Make sure to import the Bogus namespace
 
+        var products = new List<Product>();
+
+        for (int i = 1; i <= 50; i++)
+        {
+            var product = new Product
+            {
+                Id = i,
+                Name = faker.Commerce.ProductName(),
+                Description = faker.Lorem.Paragraphs(faker.Random.Number(3, 5))
+            };
+
+            products.Add(product);
+        }
+
+        return products;
     }
-
 }
+

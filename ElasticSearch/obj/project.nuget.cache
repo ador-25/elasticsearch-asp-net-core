@@ -1,15 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "p4C2+Pb81GfjtwizeQ//95EWlBNRAWF+9sFW46QPfmtEVJDqKytCEF+0GPlVtws1J0UnLU4zRbCyF5XmQ9ynmg==",
+  "dgSpecHash": "wrcqj5Gs2BHK9dd/zDo7qyLuZdemw75ySVj2P1VI7Y7OFdR+F8uSNEjQyqbPRC32GqLjrwMrPfCHau9TKJ7bGQ==",
   "success": true,
   "projectFilePath": "D:\\elasticsearch-asp-net-core\\ElasticSearch\\ElasticSearch.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\abtaheefarhanador\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
     "C:\\Users\\abtaheefarhanador\\.nuget\\packages\\elasticsearch.net\\7.17.5\\elasticsearch.net.7.17.5.nupkg.sha512",
-    "C:\\Users\\abtaheefarhanador\\.nuget\\packages\\faker.net\\2.0.154\\faker.net.2.0.154.nupkg.sha512",
     "C:\\Users\\abtaheefarhanador\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
-    "C:\\Users\\abtaheefarhanador\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\abtaheefarhanador\\.nuget\\packages\\nest\\7.17.5\\nest.7.17.5.nupkg.sha512",
-    "C:\\Users\\abtaheefarhanador\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\abtaheefarhanador\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\abtaheefarhanador\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
   ],
