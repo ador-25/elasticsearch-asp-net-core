@@ -3,7 +3,7 @@
 using ElasticSearch.Services;
 
 // hosts and indexes
-string host = "http://localhost:9200";
+string host = "https://localhost:9200";
 string indexName = "product-index";
 
 
